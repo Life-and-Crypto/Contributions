@@ -1,1 +1,1 @@
-# -ontributions
+# Our contributions to the Cosmos ecosystem
