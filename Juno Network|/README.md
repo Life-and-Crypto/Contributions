@@ -1,1 +1,1 @@
-1. Juno: Project Overview [[EN](https://app.gitbook.com/o/6RICn8FoeYo5gS0yYoIZ/s/mUHq6moryoL6HdXfsbdX/all-about-juno/juno-project-overview)]
+1. Juno: Project Overview [[EN](https://life-and-crypto.gitbook.io/life-and-crypto/life-and-crypto-en/all-about-juno/juno-project-overview)] | [[RU](https://life-and-crypto.gitbook.io/life-and-crypto/vse-o-juno/juno-obzor-proekta)]
