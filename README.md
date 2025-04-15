@@ -1,4 +1,4 @@
-# Our contributions to the Cosmos ecosystem
+# Our contributions
 
 1. Article What is Blockchain - [EN](https://life-and-crypto.gitbook.io/life-and-crypto/life-and-crypto-en/guides-for-beginners/what-is-blockchain) | [RU](https://life-and-crypto.gitbook.io/life-and-crypto/gaidy-dlya-novichkov/chto-takoe-blokchein)
 
