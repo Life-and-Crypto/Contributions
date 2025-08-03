@@ -21,9 +21,11 @@ Our team considers it very important to participate in voting on the development
 
 ### Community
 
+If developers are the flesh, then the community is the blood of the project. Interaction with the community is very important. We interact with the Russian-speaking community in telegram chats of various communities and in a Twitter account with an English-speaking audience.
+
 | Name        | Description | Relevant URLs | Additional Details |
 | ----------- | ----------- | ------------- | ------------------ |
-| [Life and Crypto](https://x.com/lifeandcrypto_) | Twitter | URLs          |                    |
+| [Life and Crypto](https://x.com/lifeandcrypto_) | Twitter account of our validator. Here we interact with the English-speaking community, repost news from the main Twitter account of the project, talk about our achievements of our Stargaze validator. | URLs          |                    |
 
 ### Contacts
 
