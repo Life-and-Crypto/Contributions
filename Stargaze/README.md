@@ -21,13 +21,9 @@ Our team considers it very important to participate in voting on the development
 
 ### Community
 
-Fill this table to indicate your contributions for the growth of the juno community.
-
-For example, twitter posts, blog articles, youtube videos, any other social contribution.
-
 | Name        | Description | Relevant URLs | Additional Details |
 | ----------- | ----------- | ------------- | ------------------ |
-| Social name | Description | URLs          |                    |
+| [Life and Crypto](https://x.com/lifeandcrypto_) | Twitter | URLs          |                    |
 
 ### Contacts
 
