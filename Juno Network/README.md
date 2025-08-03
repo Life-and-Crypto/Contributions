@@ -1,4 +1,4 @@
-# Life and Crypto Delegation Program Application
+# Life and Crypto Contribution to Juno
 
 ## Categories 
 
