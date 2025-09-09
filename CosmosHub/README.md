@@ -13,7 +13,7 @@ Our team considers it very important to participate in voting on the development
 | Name                   | Description                                                                             | Relevant URLs | Additional Details |
 | ---------------------- | --------------------------------------------------------------------------------------- | ------------- | ------------------ |
 | Governance votes       | Our team maintains 100% participation in voting on proposed proposals from the moment the validator is connected. |[1008](https://validator.keplr.app/vote/cosmos-hub/1008), [1009](https://validator.keplr.app/vote/cosmos-hub/1009)| We are committed to maintaining 100% participation in voting on future proposals. |
-| Governance involvement | We share governance reports on twitter |[1008], [1009]|  We will continue to publish the voting results on our Twitter account. |
+| Governance involvement | We share governance reports on twitter |[1008](https://x.com/lifeandcrypto_/status/1963732768963313738), [1009](https://x.com/lifeandcrypto_/status/1965294256912019575)|  We will continue to publish the voting results on our Twitter account. |
 
 ### Community
 
