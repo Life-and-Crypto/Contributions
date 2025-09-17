@@ -5,6 +5,8 @@
 ### Mainnet
 
 We became a validator September 1, 2025. We actively participate in voting and monitor the timely upgrade of the network.
+
+On September 15, 2025, the [restake](https://restake.app/cosmoshub/cosmosvaloper1nkkdef4flw8s3jxnmdyqnr7rwgfpw2kv9lx0ug/stake) function was activated.
                                                                                                                 
 ### Governance
 
