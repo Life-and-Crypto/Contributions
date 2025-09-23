@@ -28,7 +28,7 @@ We interact with the Russian-speaking community in telegram chats of various com
 | [Juno Network ($JUNO) ](https://t.me/juno_ru) | Russian speaking community Junø | [1](https://t.me/juno_ru/25261) [2](https://t.me/juno_ru/25297) [3](https://t.me/juno_ru/25310) [4](https://t.me/juno_ru/25383) [5](https://t.me/juno_ru/26541) [6](https://t.me/juno_ru/26549)| This community helped us maintain our place in the active set.|
 | [Red Planet DAO](https://t.me/rpdao) | RPDAO is a decentralized project that distributes cloud mining profits among its participants. Members earn rewards and take part in governance through voting. | [1](https://t.me/rpdao/102729) [2](https://t.me/rpdao/105949) [3](https://t.me/rpdao/106096) [4](https://t.me/rpdao/107651) | The team uses a product built on the Juno blockchain (DAO DAO) |
 | [ODYSSEY Community](https://t.me/GalacticOdysseyNFT)| Galactic Odyssey is an innovative mythical NFT trilogy, making its debut in the NFT space and the Cosmos ecosystem. | [1](https://t.me/GalacticOdysseyNFT/17707) [2](https://t.me/GalacticOdysseyNFT/17769) [3](https://t.me/GalacticOdysseyNFT/17772) [4](https://t.me/GalacticOdysseyNFT/17806)| | 
-| [EXPEDITION Community](https://t.me/expedition_pics) [1](https://t.me/expedition_pics/163251)|
+| [EXPEDITION Community](https://t.me/expedition_pics) | [1](https://t.me/expedition_pics/163251)|
 
 ### Open category
 
