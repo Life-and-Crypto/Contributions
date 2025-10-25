@@ -12,7 +12,7 @@ Our team considers it very important to participate in voting on the development
 
 | Name                   | Description                                                                             | Relevant URLs | Additional Details |
 | ---------------------- | --------------------------------------------------------------------------------------- | ------------- | ------------------ |
-| Governance votes       | Our team maintains 100% participation in voting on proposed proposals from the moment the validator is connected.|  | We are committed to maintaining 100% participation in voting on future proposals.                   |
+| Governance votes       | Our team maintains 100% participation in voting on proposed proposals from the moment the validator is connected.| [64](https://x.com/lifeandcrypto_/status/1979594074069028986) | We are committed to maintaining 100% participation in voting on future proposals.                   |
 | Governance involvement | We share governance reports on twitter || We will continue to publish the voting results on our Twitter account.|
 
 ### Community
@@ -23,7 +23,7 @@ We interact with the Russian-speaking community in telegram chats of various com
 
 | Name        | Description | Relevant URLs | Additional Details |
 | ----------- | ----------- | ------------- | ------------------ |
-| [Life and Crypto](https://x.com/lifeandcrypto_) | Twitter account of our validator. Here we interact with the English-speaking community, repost news from the main Twitter account of the project, talk about our achievements of our Juno validator. | | |  
+| [Life and Crypto](https://x.com/lifeandcrypto_) | Twitter account of our validator. Here we interact with the English-speaking community, repost news from the main Twitter account of the project, talk about our achievements of our Sentinel validator. | [1](https://x.com/lifeandcrypto_/status/1872022834392048119) [2](https://x.com/lifeandcrypto_/status/1912401280460349636) [3](https://x.com/lifeandcrypto_/status/1915151234069115068) [4](https://x.com/lifeandcrypto_/status/1952348681191010311) [5](https://x.com/lifeandcrypto_/status/1957846921814458392) [6](https://x.com/lifeandcrypto_/status/1969470735547498727) [7](https://x.com/lifeandcrypto_/status/1970541481631850665) [8](https://x.com/lifeandcrypto_/status/1981314933498204393) | |  
 | [EXPEDITION Community](https://t.me/expedition_pics) |||
 
 ### Open category
