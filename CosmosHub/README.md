@@ -23,7 +23,7 @@ If developers are the flesh, then the community is the blood of the project. Int
 
 | Name        | Description | Relevant URLs | Additional Details |
 | ----------- | ----------- | ------------- | ------------------ |
-| [Life and Crypto](https://x.com/lifeandcrypto_) | Twitter account of our validator. Here we interact with the English-speaking community, repost news from the main Twitter account of the project, talk about our achievements of our Stargaze validator. ||[1](https://x.com/lifeandcrypto_/status/1969470735547498727) [2](https://x.com/lifeandcrypto_/status/1970541481631850665)|
+| [Life and Crypto](https://x.com/lifeandcrypto_) | Twitter account of our validator. Here we interact with the English-speaking community, repost news from the main Twitter account of the project, talk about our achievements of our Stargaze validator. |[1](https://x.com/lifeandcrypto_/status/1969470735547498727) [2](https://x.com/lifeandcrypto_/status/1970541481631850665)||
 
 
 ### Open category
