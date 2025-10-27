@@ -12,7 +12,7 @@ Our team considers it very important to participate in voting on the development
 
 | Name                   | Description                                                                             | Relevant URLs | Additional Details |
 | ---------------------- | --------------------------------------------------------------------------------------- | ------------- | ------------------ |
-| Governance votes       | Our team maintains 100% participation in voting on proposed proposals from the moment the validator is connected.| [62](https://validator.keplr.app/vote/sentinel/62) [63](https://validator.keplr.app/vote/sentinel/63) [64](https://validator.keplr.app/vote/sentinel/64)) | We are committed to maintaining 100% participation in voting on future proposals.                   |
+| Governance votes       | Our team maintains 100% participation in voting on proposed proposals from the moment the validator is connected.| [62](https://validator.keplr.app/vote/sentinel/62) [63](https://validator.keplr.app/vote/sentinel/63) [64](https://validator.keplr.app/vote/sentinel/64) | We are committed to maintaining 100% participation in voting on future proposals.                   |
 | Governance involvement | We share governance reports on twitter |[1](https://x.com/lifeandcrypto_/status/1979594074069028986)| We will continue to publish the voting results on our Twitter account.|
 
 ### Community
