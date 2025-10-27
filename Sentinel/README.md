@@ -4,7 +4,7 @@
 
 ### Mainnet
 
-We became a validator on December 12, 2024. We actively participate in voting and monitor the timely upgrade of the network.
+We became a [validator](https://x.com/lifeandcrypto_/status/1872022834392048119) on December 26, 2024. We actively participate in voting and monitor the timely upgrade of the network.
 
 ### Governance
 
