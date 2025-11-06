@@ -24,7 +24,7 @@ We interact with the Russian-speaking community in telegram chats of various com
 | Name        | Description | Relevant URLs | Additional Details |
 | ----------- | ----------- | ------------- | ------------------ |
 | [Life and Crypto](https://x.com/lifeandcrypto_) | Twitter account of our validator. Here we interact with the English-speaking community, repost news from the main Twitter account of the project, talk about our achievements of our Sentinel validator. | [1](https://x.com/lifeandcrypto_/status/1872022834392048119) [2](https://x.com/lifeandcrypto_/status/1912401280460349636) [3](https://x.com/lifeandcrypto_/status/1915151234069115068) [4](https://x.com/lifeandcrypto_/status/1952348681191010311) [5](https://x.com/lifeandcrypto_/status/1957846921814458392) [6](https://x.com/lifeandcrypto_/status/1969470735547498727) [7](https://x.com/lifeandcrypto_/status/1970541481631850665) [8](https://x.com/lifeandcrypto_/status/1981314933498204393) [9](https://x.com/lifeandcrypto_/status/1986488354901532837)  | |  
-| [EXPEDITION Community](https://t.me/expedition_pics) ||[1](https://t.me/expedition_pics/167435) |
+| [EXPEDITION Community](https://t.me/expedition_pics) ||[1](https://t.me/expedition_pics/167435) [2](https://t.me/expedition_pics/168795)  |
 
 ### Open category
 
