@@ -12,8 +12,8 @@ Our team considers it very important to participate in voting on the development
 
 | Name                   | Description                                                                             | Relevant URLs | Additional Details |
 | ---------------------- | --------------------------------------------------------------------------------------- | ------------- | ------------------ |
-| Governance votes       | Our team maintains 100% participation in voting on proposed proposals from the moment the validator is connected.| [62](https://validator.keplr.app/vote/sentinel/62) [63](https://validator.keplr.app/vote/sentinel/63) [64](https://validator.keplr.app/vote/sentinel/64) [65](https://ping.pub/sentinel/gov/65) | We are committed to maintaining 100% participation in voting on future proposals.                   |
-| Governance involvement | We share governance reports on twitter |[1](https://x.com/lifeandcrypto_/status/1979594074069028986) [2](https://x.com/lifeandcrypto_/status/1983113411790528811) | We will continue to publish the voting results on our Twitter account.|
+| Governance votes       | Our team maintains 100% participation in voting on proposed proposals from the moment the validator is connected.| [62](https://validator.keplr.app/vote/sentinel/62) [63](https://validator.keplr.app/vote/sentinel/63) [64](https://validator.keplr.app/vote/sentinel/64) [65](https://ping.pub/sentinel/gov/65) [66](https://ping.pub/sentinel/gov/66)  | We are committed to maintaining 100% participation in voting on future proposals.                   |
+| Governance involvement | We share governance reports on twitter |[1](https://x.com/lifeandcrypto_/status/1979594074069028986) [2](https://x.com/lifeandcrypto_/status/1983113411790528811) [3](https://x.com/lifeandcrypto_/status/1991960116313125137) | We will continue to publish the voting results on our Twitter account.|
 
 ### Community
 
