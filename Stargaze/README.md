@@ -1,4 +1,4 @@
-# Life and Crypto Contribution to Stargaze
+# Life and Crypto Contribution to Stargaze 2025
 
 ## Categories
 
@@ -49,3 +49,6 @@ We introduce projects where we are validators.
 | GitBook| Team Gitbook | [Link](https://life-and-crypto.gitbook.io/life-and-crypto/life-and-crypto-en) ||
 | GitHub | Team GitHub | [Link](https://github.com/Life-and-Crypto) ||
 | Discord | Team Discord | [Link](https://discord.gg/48bcV7S8) ||
+
+
+# Life and Crypto Contribution to Stargaze 2026
